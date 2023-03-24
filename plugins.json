@@ -114,7 +114,7 @@
         "name": "JavSubProvider"
     },
  {
-        "iconUrl": "https://www.google.com/s2/favicons?domain=vlxx.sex&sz=%size%",
+        "iconUrl": "https://www.google.com/s2/favicons?domain=javtube.watch&sz=%size%",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/Solominou/jav",
         "fileSize": 15222,
@@ -127,13 +127,51 @@
             "NSFW"
         ],
         "version": 3,
-        "internalName": "Vlxx",
+        "internalName": "JavTube",
         "description": "",
-        "url": "https://raw.githubusercontent.com/Solominou/jav/builds/Vlxx.cs3",
-        "name": "Vlxx"
+        "url": "https://raw.githubusercontent.com/Solominou/jav/builds/JavTube.cs3",
+        "name": "JavTube"
+    },
+{
+        "iconUrl": "https://www.google.com/s2/favicons?domain=javfree.sh&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/Solominou/jav",
+        "fileSize": 15222,
+        "status": 1,
+        "language": "en",
+        "authors": [
+            "Solo"
+        ],
+        "tvTypes": [
+            "NSFW"
+        ],
+        "version": 3,
+        "internalName": "JavFree",
+        "description": "",
+        "url": "https://raw.githubusercontent.com/Solominou/jav/builds/JavFreeProvider.cs3",
+        "name": "JavFree"
+    },
+{
+        "iconUrl": "https://www.google.com/s2/favicons?domain=yomovies.rest&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/Solominou/jav",
+        "fileSize": 15222,
+        "status": 1,
+        "language": "en",
+        "authors": [
+            "Solo"
+        ],
+        "tvTypes": [
+            "NSFW"
+        ],
+        "version": 3,
+        "internalName": "Yomovies",
+        "description": "",
+        "url": "https://raw.githubusercontent.com/Solominou/jav/builds/YomoviesProvider.cs3",
+        "name": "Yomovies"
     },
  {
-        "iconUrl": "https://www.google.com/s2/favicons?domain=xvideos.com&sz=%size%",
+        "iconUrl": "https://www.google.com/s2/favicons?domain=opjav.com&sz=%size%",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/Solominou/jav",
         "fileSize": 15222,
@@ -146,9 +184,9 @@
             "NSFW"
         ],
         "version": 3,
-        "internalName": "XvideosProvider",
-        "description": "",
-        "url": "https://raw.githubusercontent.com/Solominou/jav/builds/XvideosProvider.cs3",
-        "name": "XvideosProvider"
+        "internalName": "OpJav",
+        "description": "Fuck u Solo",
+        "url": "https://raw.githubusercontent.com/Solominou/jav/builds/OpJav.cs3",
+        "name": "OpJav"
     }
 ]
