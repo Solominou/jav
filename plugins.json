@@ -151,25 +151,6 @@
         "url": "https://raw.githubusercontent.com/Solominou/jav/builds/JavFreeProvider.cs3",
         "name": "JavFree"
     },
-{
-        "iconUrl": "https://www.google.com/s2/favicons?domain=yomovies.rest&sz=%size%",
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/Solominou/jav",
-        "fileSize": 15222,
-        "status": 1,
-        "language": "en",
-        "authors": [
-            "Solo"
-        ],
-        "tvTypes": [
-            "NSFW"
-        ],
-        "version": 3,
-        "internalName": "Yomovies",
-        "description": "",
-        "url": "https://raw.githubusercontent.com/Solominou/jav/builds/YomoviesProvider.cs3",
-        "name": "Yomovies"
-    },
  {
         "iconUrl": "https://www.google.com/s2/favicons?domain=opjav.com&sz=%size%",
         "apiVersion": 1,
