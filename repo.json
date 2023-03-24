@@ -1,0 +1,6 @@
+{
+  "name": "nsfw repository",
+  "description": "xxx",
+  "manifestVersion": 1,
+  "pluginLists": ["https://raw.githubusercontent.com/Solominou/jav/builds/plugins.json"]
+}
