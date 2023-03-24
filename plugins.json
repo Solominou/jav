@@ -38,85 +38,117 @@
         "name": "PornhubProvider"
     },
     {
-        "iconUrl": "https://www.google.com/s2/favicons?domain=faselhd.io&sz=%size%",
+        "iconUrl": "https://www.google.com/s2/favicons?domain=hanime.tv&sz=%size%",
         "apiVersion": 1,
-        "repositoryUrl": "https://github.com/Solominou/test",
+        "repositoryUrl": "https://github.com/Solominou/jav",
         "fileSize": 13836,
         "status": 1,
-        "language": "ar",
+        "language": "en",
         "authors": [
             "ImZaw"
         ],
         "tvTypes": [
-            "TvSeries",
-            "Movie",
-            "Anime",
-            "AsianDrama"
+            "NSFW"
         ],
         "version": 2,
-        "internalName": "FaselHDProvider",
+        "internalName": "hanime",
         "description": "",
-        "url": "https://raw.githubusercontent.com/Solominou/test/builds/FaselHDProvider.cs3",
+        "url": "https://raw.githubusercontent.com/Solominou/jav/builds/Hanime.cs3",
         "name": "FaselHDProvider"
     },
     {
-        "iconUrl": "https://b.gateanime.cam/wp-content/uploads/2020/12/cropped-Favicon-192x192.png",
+        "iconUrl": "https://www.google.com/s2/favicons?domain=hentaihaven.xxx&sz=%size%",
         "apiVersion": 1,
-        "repositoryUrl": "https://github.com/Solominou/test",
+        "repositoryUrl": "https://github.com/Solominou/jav",
         "fileSize": 11608,
         "status": 1,
-        "language": "ar",
+        "language": "en",
         "authors": [
             "ImZaw"
         ],
         "tvTypes": [
-            "Anime",
-            "TVSeries",
-            "Movie"
+            "NSFW"
         ],
         "version": 1,
-        "internalName": "GateAnimeProvider",
+        "internalName": "HentaiHaven",
         "description": "",
-        "url": "https://raw.githubusercontent.com/Solominou/test/builds/GateAnimeProvider.cs3",
-        "name": "GateAnimeProvider"
+        "url": "https://raw.githubusercontent.com/Solominou/jav/builds/HentaiHaven.cs3",
+        "name": "HentaiHaven"
     },
     {
-        "iconUrl": "https://www.google.com/s2/favicons?domain=shahid4u.cc&sz=%size%",
+        "iconUrl": "https://www.google.com/s2/favicons?domain=hpjav.tv&sz=%size%",
         "apiVersion": 1,
-        "repositoryUrl": "https://github.com/Solominou/test",
+        "repositoryUrl": "https://github.com/Solominou/jav",
         "fileSize": 15222,
         "status": 1,
-        "language": "ar",
+        "language": "en",
         "authors": [
             "ImZaw"
         ],
         "tvTypes": [
-            "TvSeries",
-            "Movie",
-            "Anime",
-            "AsianDrama"
+            "NSFW"
         ],
         "version": 3,
-        "internalName": "Shahid4uProvider",
+        "internalName": "HpJav",
         "description": "",
-        "url": "https://raw.githubusercontent.com/Solominou/test/builds/Shahid4uProvider.cs3",
-        "name": "Shahid4uProvider"
+        "url": "https://raw.githubusercontent.com/Solominou/jav/builds/HpJav.cs3",
+        "name": "HpJav"
     },
-    {
+ {
+        "iconUrl": "https://javsub.co/wp-content/uploads/2021/09/jav-sub.png",
         "apiVersion": 1,
-        "repositoryUrl": "https://github.com/Solominou/test",
-        "fileSize": 28708,
+        "repositoryUrl": "https://github.com/Solominou/jav",
+        "fileSize": 15222,
         "status": 1,
+        "language": "en",
         "authors": [
             "ImZaw"
         ],
         "tvTypes": [
-            "Others"
+            "NSFW"
         ],
-        "version": -1,
-        "internalName": "TestPlugin",
-        "description": "Beta version is basically an incompleted providers so you might face problems. Mostly for development",
-        "url": "https://raw.githubusercontent.com/Solominou/test/builds/TestPlugin.cs3",
-        "name": "TestPlugin"
+        "version": 3,
+        "internalName": "JavSubProvider",
+        "description": "",
+        "url": "https://raw.githubusercontent.com/Solominou/jav/builds/JavSubProvider.cs3",
+        "name": "JavSubProvider"
+    },
+ {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=vlxx.sex&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/Solominou/jav",
+        "fileSize": 15222,
+        "status": 1,
+        "language": "en",
+        "authors": [
+            "ImZaw"
+        ],
+        "tvTypes": [
+            "NSFW"
+        ],
+        "version": 3,
+        "internalName": "Vlxx",
+        "description": "",
+        "url": "https://raw.githubusercontent.com/Solominou/jav/builds/Vlxx.cs3",
+        "name": "Vlxx"
+    },
+ {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=xvideos.com&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/Solominou/jav",
+        "fileSize": 15222,
+        "status": 1,
+        "language": "en",
+        "authors": [
+            "ImZaw"
+        ],
+        "tvTypes": [
+            "NSFW"
+        ],
+        "version": 3,
+        "internalName": "XvideosProvider",
+        "description": "",
+        "url": "https://raw.githubusercontent.com/Solominou/jav/builds/XvideosProvider.cs3",
+        "name": "XvideosProvider"
     }
 ]
