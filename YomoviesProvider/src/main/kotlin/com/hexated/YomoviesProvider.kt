@@ -14,12 +14,9 @@ class YomoviesProvider : MainAPI() {
     private var directUrl = mainUrl
     override var name = "Yomovies"
     override val hasMainPage = true
-    override var lang = "hi"
+    override var lang = "en"
     override val hasDownloadSupport = true
-    override val supportedTypes = setOf(
-        TvType.Movie,
-        TvType.TvSeries,
-    )
+    override val supportedTypes = setOf(TvType.NSFW)
 
     override val mainPage = mainPageOf(
         "$mainUrl/most-favorites/page/" to "Most Viewed",
